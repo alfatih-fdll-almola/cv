@@ -1,5 +1,6 @@
 <html>
 <head>
+<link rel="stylesheet" type="text/css" herf="style.css">
         <meta charset="utf-8">
         <meta name="viewpor" content=" width=device-width, initial-scale=1.8">
         <title>ALFATiH Fdll ALMOLA</title>
@@ -12,12 +13,10 @@
     <h4  <font color="b"> ALFATiH Fdll ALMOLA<h4/>
     <h4  <font color="b">  level : thard<h4/>
     </center>
-    
-              
 <?php
-?>
-
+      
        <br>
+?>
         
 </body>
 </html>
